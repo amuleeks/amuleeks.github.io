@@ -1,0 +1,10 @@
+.container{
+    max-width: 960px;
+    margin: 0 auto;
+    background: #C5C3C6;
+    font-size: 24px;
+    padding: 25px;
+}
+.parallax{
+    background: url('')
+}
