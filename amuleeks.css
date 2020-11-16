@@ -1,10 +1,40 @@
-.container{
-    max-width: 960px;
+body{
+    background: #0C1C28;
+}
+
+/* title including name  */
+
+.name{
+    text-align: center;
+    font-family: 'Inconsolata', monospace;
+    color: white;
+}
+#name{
+    font-weight: bold;
+    font-size: 80px;
+}
+#name-st{
+    font-size: 30px;
+}
+
+.parallax {
+    padding: 100px;
+    background: transparent;
+}
+
+/* paragraph stuff */
+
+.p-container{
+    width: auto;
     margin: 0 auto;
-    background: #C5C3C6;
+    background: #46494C;
     font-size: 24px;
     padding: 25px;
 }
-.parallax{
-    background: url('')
+.info{
+    opacity: 1;
+    z-index: 2;
+    position: relative;
+    color: white;
 }
+
