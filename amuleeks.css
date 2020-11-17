@@ -80,5 +80,17 @@ a:hover{
     margin: 15px 0;
 }
 
+.contact-button{
+
+    font-weight: bold;
+    background: rgba(76, 92, 104);
+    padding: 5px;
+}
+.contact-button:hover{
+
+    background: rgba(76, 92, 104, 0.7);
+    border-bottom: none;
+}
+
 
 
